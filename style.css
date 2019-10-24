@@ -1,9 +1,9 @@
 .background {
-  background: center no-repeat url(background.jpg);
+  background: center no-repeat url(https://jpintor14.github.io/chromecast-receiver-style/background.jpg);
 }
 
 .logo {
-  background-image: url(orange_logo.png);
+  background-image: url(https://jpintor14.github.io/chromecast-receiver-style/orange_logo.png);
 }
 
 .progressBar {
@@ -11,10 +11,10 @@
 }
 
 .splash {
-  background-image: url(orange_logo.png);
+  background-image: url(https://jpintor14.github.io/chromecast-receiver-style/orange_logo.png);
 }
 
 .watermark {
-  background-image: url(orange_tv_logo.png);
+  background-image: url(https://jpintor14.github.io/chromecast-receiver-style/orange_tv_logo.png);
   background-size: 127px 28px;
 }
